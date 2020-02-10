@@ -19,7 +19,7 @@ This application uses the following:
 First, clone this repository to your local machine:
 
 ```sh
- $ git clone https://github.com/dongido001/python-realtime-table.git
+ $ git clone  https://github.com/KenMwaura1/pusher-realtime-table.git
 ```
 
  Next update the following keys in the `.env` file with your correct Pusher keys:
